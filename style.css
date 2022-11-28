@@ -241,8 +241,8 @@ section{
 }
 .footer span{
     color: var(--sWhite);
-    margin-bottom: 10px;
-    font-size: .9rem;
+    margin-bottom: 15px;
+    font-size: 1rem;
 }
 .footer b{
     margin-bottom: 25px;
